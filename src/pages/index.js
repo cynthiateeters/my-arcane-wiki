@@ -12,7 +12,7 @@ export default function Home() {
     <Layout>
       <Head>
         <title>Arcane Wiki</title>
-        <meta name="description" content="All the characters you love from Arcane!" />
+        <meta name="description" content="All the characters you love from Arcane! All in a nice gallery." />
       </Head>
 
       <Container>
